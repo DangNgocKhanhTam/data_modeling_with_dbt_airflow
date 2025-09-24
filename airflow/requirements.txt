@@ -1,5 +1,0 @@
-apache-airflow==2.7.0
-apache-airflow-providers-google>=10.11.0
-apache-airflow-providers-openlineage>=1.8.0
-dbt-bigquery
-google-cloud-bigquery
